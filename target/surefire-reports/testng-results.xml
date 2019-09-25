@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55" started-at="2019-09-12T23:22:07 IST" finished-at="2019-09-12T23:22:07 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55" started-at="2019-09-12T23:22:07 IST" finished-at="2019-09-12T23:22:07 IST">
+      <class name="TestingPurpose.MavenJava.MobileAppTest">
+        <test-method status="PASS" signature="getMobileAppData()[pri:0, instance:TestingPurpose.MavenJava.MobileAppTest@2344fc66]" name="getMobileAppData" duration-ms="1" started-at="2019-09-12T23:22:07 IST" finished-at="2019-09-12T23:22:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMobileAppData -->
+      </class> <!-- TestingPurpose.MavenJava.MobileAppTest -->
+      <class name="TestingPurpose.MavenJava.DesktopAppTest">
+        <test-method status="PASS" signature="getDesktopAppData()[pri:0, instance:TestingPurpose.MavenJava.DesktopAppTest@6574b225]" name="getDesktopAppData" duration-ms="9" started-at="2019-09-12T23:22:07 IST" finished-at="2019-09-12T23:22:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDesktopAppData -->
+      </class> <!-- TestingPurpose.MavenJava.DesktopAppTest -->
+      <class name="TestingPurpose.MavenJava.WebAppTest">
+        <test-method status="PASS" signature="getWebAppData()[pri:0, instance:TestingPurpose.MavenJava.WebAppTest@2669b199]" name="getWebAppData" duration-ms="0" started-at="2019-09-12T23:22:07 IST" finished-at="2019-09-12T23:22:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWebAppData -->
+      </class> <!-- TestingPurpose.MavenJava.WebAppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
